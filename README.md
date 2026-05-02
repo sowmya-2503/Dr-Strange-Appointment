@@ -1,3 +1,4 @@
+<img width="1907" height="1011" alt="Screenshot 2026-04-20 200725" src="https://github.com/user-attachments/assets/f48a0887-9589-4593-8903-252250e554b1" />
 # AI-Powered Patient Appointment Booking System Using n8n
 
 ## Project Overview
